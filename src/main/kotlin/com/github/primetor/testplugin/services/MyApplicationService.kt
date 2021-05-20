@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.primetor.testplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.primetor.testplugin.MyBundle
 
 class MyApplicationService {
 
